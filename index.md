@@ -136,7 +136,7 @@ Daughters | Sons
 :-------: | :--:
 [Kamla](#Kamla) | [Gopal](#Gopal)
 [Hardevi](#Hardevi) | [Tulsidas (Laali)](#Tulsidas)
-[Maya](#Maya) | [Lala (Laali)](#Lala)
+[Maya](#Maya) | [Lala](#Lala)
 [Radha](#Radha) | [Moti](#Moti)
 [Asha](#Asha) | [Balli](#Balli)
 
@@ -194,6 +194,62 @@ Daughters | Sons
 :-------: | :--:
 [Sindu](#Sindu) | 
 
+##### Go To [Generation 2](#Gen2)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> <a name="Ramchand"></a> Ramchand
+
+Self | Spouse
+:--: | :----:
+Ramchand | Gopi 
+![Ramchand Img](images/Picture2.png) | ![GopiR Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+[Vindur](#Vindur) | [Girdhari](#Girdhari)
+[Baby](#Baby) | [Bihari](#BihariR)
+
+##### Go To [Generation 2](#Gen2)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> <a name="Kishin"></a> Kishin
+
+Self | Spouse
+:--: | :----:
+Kishin | Tara 
+![Kishin Img](images/Picture2.png) | ![Tara Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+[Shakku](#Shakku) | [Deepak](#Deepak)
+[Maya](#MayaK) | [Prakash](#Prakash)
+[Soni](#Soni) | 
+
+##### Go To [Generation 2](#Gen2)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> <a name="Gobindram"></a> Gobindram
+
+Self | Spouse
+:--: | :----:
+Gobindram | Kamla 
+![Gobindram Img](images/Picture2.png) | ![KamlaG Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+ | [Vishamber (Vishu)](#Vishu)
+ | [Rajesh](#Rajesh)
+
+##### Go To [Generation 2](#Gen2)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> <a name="Hari"></a> Hari
+
+Self | Spouse
+:--: | :----:
+Hari |  
+![Hari Img](images/Picture2.png) |  
+
+Daughters | Sons
+:-------: | :--:
+ | 
+ 
 ##### Go To [Generation 2](#Gen2)
 
 # <a name="Gen3"></a> Generation 3
