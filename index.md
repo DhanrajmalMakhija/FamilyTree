@@ -32,9 +32,9 @@ Daughters | Sons
 
 # Dedicated to the Dhanraj Makhija and his Family
 
-### Inspired by Smt. Santosh Nandlal Chawla
+### Initiated by Smt. Santosh Nandlal Chawla
 
-### Contributor to by Smt. Shobha Hiroo Makhija
+### Contributions by Smt. Shobha Hiralal Makhija
 
-### Maintained by Rajesh Makhija
+### Maintained by Rajesh Gobindram Makhija
 
