@@ -1,39 +1,33 @@
 # Welcome to the Family Tree of Dhanrajmal Balram Makhija
 
-## Welcome to GitHub Pages
+# <a name="Dhanrajmal"></a> Dhanrajmal Balram Makhija
 
-You can use the [editor on GitHub](https://github.com/DhanrajmalMakhija/FamilyTree/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Self | Spouse
+---- | ------
+Dhanrajmal | Cheti 
+![Dhanrajmal Img](/images/male.png) | ![Cheti Img](/images/female.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Daughters | Sons
+--------- | ----
+[Veera](#Veera) | [Mohandas](#Mohandas)
+[?](#?) | [Rupchand](#Rupchand)
+        | [Lachmandas](#Lachmandas)
 
-### Markdown
+#<a name="Gen1"></a> Generation 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [Dhanrajmal](#Dhanrajmal) -> <a name="Mohandas"></a> Mohandas
 
-```markdown
-Syntax highlighted code block
+Self | Spouse
+---- | ------
+Mohandas | Rukmanibai 
+![Mohandas Img](/images/male.png) | ![Rukmanibai Img](/images/female.png)
 
-# Header 1
-## Header 2
-### Header 3
+Daughters | Sons
+--------- | ----
+[Lila](#Lila) | [Ramchand](#Ramchand)
+[Kaushalya](#Kaushalya) | [Kishin](#Kishin)
+[Ganga](#Ganga) | [Gobindram](#Gobindram)
+[Shanti](#Shanti) | [Hari](#Hari)
+[Raju](#Raju) |      
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DhanrajmalMakhija/FamilyTree/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
