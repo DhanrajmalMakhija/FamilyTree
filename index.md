@@ -13,6 +13,20 @@ Daughters | Sons
 
 # <a name="Gen1"></a> Generation 1
 
+## [Dhanrajmal](#Dhanrajmal) -> <a name="Veera"></a> Veera
+
+Self | Spouse
+:--: | :----:
+Veera | Phagoomal ? 
+![Veera Img](images/Picture2.png) | ![Phagoomal Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+ | [Bihari](#Bihari)
+ | [Siri](#Siri)      
+
+### Go To [Generation 1](#Gen1)
+
 ## [Dhanrajmal](#Dhanrajmal) -> <a name="Mohandas"></a> Mohandas
 
 Self | Spouse
@@ -28,11 +42,19 @@ Daughters | Sons
 [Shanti](#Shanti) | [Hari](#Hari)
 [Raju](#Raju) |      
 
-### Go To [Gen 1](#Gen1)
+### Go To [Generation 1](#Gen1)
+
+# <a name="Gen2"></a> Generation 2
+
+# <a name="Gen3"></a> Generation 3
+
+# <a name="Gen4"></a> Generation 4
+
+# <a name="Gen5"></a> Generation 5
 
 # Dedicated to the Dhanrajmal Balram Makhija and his Family
 
-### Initiated by Smt. Santosh Nandlal Chawla
+### Inspired by Smt. Santosh Nandlal Chawla
 
 ### Maintained by Rajesh Gobindram Makhija
 
