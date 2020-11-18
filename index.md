@@ -36,4 +36,5 @@ Daughters | Sons
 
 ### Maintained by Rajesh Gobindram Makhija
 
-### Family members please email to dm_ft@outlook.com for updates to this website    
+### Family members: please email update requests to:
+### dm_ft@outlook.com    
