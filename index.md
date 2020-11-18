@@ -79,12 +79,122 @@ Lachmandas | Janki
 
 Daughters | Sons
 :-------: | :--:
-[Sheela](#Sheela) | [Hiralal, Hiroo](#Hiralal)
+[Sheela](#Sheela) | [Hiralal (Hiroo)](#Hiralal)
 [Santosh](#Santosh) | 
 
 ##### Go To [Generation 1](#Gen1)
 
 # <a name="Gen2"></a> Generation 2
+
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="Bihari"></a> Bihari
+
+Self | Spouse
+:--: | :----:
+Bihari | ? 
+![Bihari Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+? | ?
+
+##### Go To [Generation 2](#Gen2)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="Siri"></a> Siri
+
+Self | Spouse
+:--: | :----:
+Siri | ? 
+![Siri Img](images/Picture1.png) | ![? Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+? | ?
+
+##### Go To [Generation 2](#Gen2)
+
+## [Dhanrajmal](#Dhanrajmal) -> [?](#?) -> <a name="Gopi"></a> Gopi
+
+Self | Spouse
+:--: | :----:
+Gopi | ? 
+![Gopi Img](images/Picture1.png) | ![? Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+? | ?
+
+##### Go To [Generation 2](#Gen2)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> <a name="Lila"></a> Lila
+
+Self | Spouse
+:--: | :----:
+Lila | Sugnichand Talreja 
+![Lila Img](images/Picture1.png) | ![Sugnichand Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+[Kamla](#Kamla) | [Gopal](#Gopal)
+[Hardevi](#Hardevi) | [Tulsidas (Laali)](#Tulsidas)
+[Maya](#Maya) | [Lala (Laali)](#Lala)
+[Radha](#Radha) | [Moti](#Moti)
+[Asha](#Asha) | [Balli](#Balli)
+
+##### Go To [Generation 2](#Gen2)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> <a name="Kaushalya"></a> Kaushalya
+
+Self | Spouse
+:--: | :----:
+Kaushalya | Kanaiyalal Bajaj 
+![Lila Img](images/Picture1.png) | ![Sugnichand Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+[Duru](#Duru) | [Amar](#Amar)
+ | [Anil](#Anil)
+
+##### Go To [Generation 2](#Gen2)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> <a name="Ganga"></a> Ganga
+
+Self | Spouse
+:--: | :----:
+Ganga | Menghraj Ahuja 
+![Ganga Img](images/Picture1.png) | ![Menghraj Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+[Shanta](#Shanta) | 
+
+##### Go To [Generation 2](#Gen2)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> <a name="Shanti"></a> Shanti
+
+Self | Spouse
+:--: | :----:
+Shanti | Parsram Shroff 
+![Shanti Img](images/Picture1.png) | ![Parsram Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+[Kamlesh](#Kamlesh) | [Arjun](#Arjun)
+[Sweety](#Sweety) | [Haresh](#Haresh)
+
+##### Go To [Generation 2](#Gen2)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> <a name="Raju"></a> Raju
+
+Self | Spouse
+:--: | :----:
+Raju | Madanlal Jumani 
+![Raju Img](images/Picture1.png) | ![Madanlal Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+[Sindu](#Sindu) | 
+
+##### Go To [Generation 2](#Gen2)
 
 # <a name="Gen3"></a> Generation 3
 
