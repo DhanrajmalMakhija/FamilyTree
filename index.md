@@ -57,6 +57,33 @@ Daughters | Sons
 
 ##### Go To [Generation 1](#Gen1)
 
+## [Dhanrajmal](#Dhanrajmal) -> <a name="Rupchand"></a> Rupchand
+
+Self | Spouse
+:--: | :----:
+Rupchand | ? 
+![Rupchand Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+[Lakhi](#Lakhi) | [Vashu](#Vashu)
+
+##### Go To [Generation 1](#Gen1)
+
+## [Dhanrajmal](#Dhanrajmal) -> <a name="Lachmandas"></a> Lachmandas
+
+Self | Spouse
+:--: | :----:
+Lachmandas | Janki 
+![Lachmandas Img](images/Picture2.png) | ![Janki Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+[Sheela](#Sheela) | [Hiralal, Hiroo](#Hiralal)
+[Santosh](#Santosh) | 
+
+##### Go To [Generation 1](#Gen1)
+
 # <a name="Gen2"></a> Generation 2
 
 # <a name="Gen3"></a> Generation 3
