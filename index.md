@@ -2,10 +2,14 @@
 
 # <a name="Dhanrajmal"></a> Dhanrajmal Balram Makhija
 
+<center>
+
 Self | Spouse
 ---- | ------
-<p style="text-align: center;">Dhanrajmal</p> | Cheti 
-<p style="text-align: center;">![Dhanrajmal Img](images/Picture2.png) </p>| ![Cheti Img](images/Picture1.png)
+Dhanrajmal | Cheti 
+![Dhanrajmal Img](images/Picture2.png) | ![Cheti Img](images/Picture1.png)
+
+</center>
 
 Daughters | Sons
 --------- | ----
