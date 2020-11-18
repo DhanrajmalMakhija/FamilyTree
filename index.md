@@ -1,5 +1,3 @@
-# Welcome to the Family Tree of Dhanrajmal Balram Makhija
-
 # <a name="Dhanrajmal"></a> Dhanrajmal Balram Makhija
 
 Self | Spouse
