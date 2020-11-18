@@ -28,13 +28,11 @@ Daughters | Sons
 [Shanti](#Shanti) | [Hari](#Hari)
 [Raju](#Raju) |      
 
-### <p style="text-align: center;">[Gen 1](#Gen1)</p>
+### [Gen 1](#Gen1)
 
 # Dedicated to the Dhanraj Makhija and his Family
 
 ### Initiated by Smt. Santosh Nandlal Chawla
-
-### Contributions by Smt. Shobha Hiralal Makhija
 
 ### Maintained by Rajesh Gobindram Makhija
 
