@@ -220,7 +220,7 @@ Kishin | Tara
 Daughters | Sons
 :-------: | :--:
 [Shakku](#Shakku) | [Deepak](#Deepak)
-[Maya](#MayaK) | [Prakash](#Prakash)
+[Maya](#MayaK) | [Prakash](#PrakashK)
 [Soni](#Soni) | 
 
 ##### Go To [Generation 2](#Gen2)
@@ -455,7 +455,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Duru | Prakash Nichani 
-![Duru Img](images/Picture1.png) | ![? Img](images/Picture2.png)
+![Duru Img](images/Picture1.png) | ![PrakashNichani Img](images/Picture2.png)
 
 Daughters | Sons
 :-------: | :--:
@@ -592,7 +592,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Baby | Prakash Talreja
-![Baby Img](images/Picture1.png) | ![Prakash Img](images/Picture2.png)
+![Baby Img](images/Picture1.png) | ![PrakashT Img](images/Picture2.png)
 
 Daughters | Sons
 :-------: | :--:
@@ -678,12 +678,12 @@ Daughters | Sons
 
 ##### Go To [Generation 3](#Gen3)
 
-## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> [Kishin](#Kishin) -> <a name="Prakash"></a> Prakash
+## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> [Kishin](#Kishin) -> <a name="PrakashK"></a> Prakash
 
 Self | Spouse
 :--: | :----:
 Prakash | ?
-![Prakash Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+![PrakashK Img](images/Picture2.png) | ![? Img](images/Picture1.png)
 
 Daughters | Sons
 :-------: | :--:
@@ -709,11 +709,183 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Rajesh | Shashi
-![Rajesh Img](images/Picture2.png) | ![Shashi Img](images/Picture1.png)
+![Rajesh Img](images/Rajesh.png) | ![Shashi Img](images/Picture1.png)
 
 Daughters | Sons
 :-------: | :--:
  [Neha](#Neha) | 
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Rupchand](#Rupchand) -> [Lakhi](#Lakhi) -> <a name="Bansi"></a> Bansi
+
+Self | Spouse
+:--: | :----:
+Bansi | ?
+![Bansi Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+ | 
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Rupchand](#Rupchand) -> [Vashu](#Vashu) -> <a name="Srichand"></a> Srichand
+
+Self | Spouse
+:--: | :----:
+Srichand | ?
+![Srichand Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+ | 
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Rupchand](#Rupchand) -> [Vashu](#Vashu) -> <a name="PrakashV"></a> Prakash
+
+Self | Spouse
+:--: | :----:
+Prakash | ?
+![PrakashV Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+ | 
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Sheela](#Sheela) -> <a name="Shalini"></a> Shalini
+
+Self | Spouse
+:--: | :----:
+Shalini | ? Makhija
+![Shalini Img](images/Picture1.png) | ![? Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+ | [Vivek](#Vivek)
+ | [Vinod](#Vinod)
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Sheela](#Sheela) -> <a name="Jawahar"></a> Jawahar
+
+Self | Spouse
+:--: | :----:
+Jawahar | ? 
+![Jawahar Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+ | 
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Sheela](#Sheela) -> <a name="Manu"></a> Manu
+
+Self | Spouse
+:--: | :----:
+Manu | ? 
+![Manu Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+ | 
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Sheela](#Sheela) -> <a name="Dheeran"></a> Dheeran
+
+Self | Spouse
+:--: | :----:
+Dheeran | ? 
+![Dheeran Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+ | 
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> <a name="Sharmila"></a> Sharmila
+
+Self | Spouse
+:--: | :----:
+Sharmila | ? 
+![Sharmila Img](images/Picture1.png) | ![? Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+ | 
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> <a name="Prakash"></a> Prakash
+
+Self | Spouse
+:--: | :----:
+Prakash | Jaya 
+![Prakash Img](images/Picture2.png) | ![Jaya Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+ | 
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> <a name="Sunil"></a> Sunil
+
+Self | Spouse
+:--: | :----:
+Sunil | Karuna 
+![Sunil Img](images/Picture2.png) | ![Karuna Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+ | 
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Hiroo](#Hiralal) -> <a name="Ritika"></a> Ritika
+
+Self | Spouse
+:--: | :----:
+Ritika | Rajesh ? 
+![Ritika Img](images/Picture1.png) | ![Rajesh? Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+ | [Rati](#Rati)
+ | [Vani](#Vani)
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Hiroo](#Hiralal) -> <a name="Manek"></a> Manek
+
+Self | Spouse
+:--: | :----:
+Manek | Sneha 
+![Manek Img](images/Picture2.png) | ![Sneha Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+ [Shriya](#Shriya) | [Bharat](#Bharat)
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Hiroo](#Hiralal) -> <a name="Sharan"></a> Sharan
+
+Self | Spouse
+:--: | :----:
+Sharan | ? 
+![Sharan Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+ | 
+ | 
 
 ##### Go To [Generation 3](#Gen3)
 
@@ -726,6 +898,8 @@ Daughters | Sons
 ### Inspired by Smt. Santosh Nandlal Chawla
 
 ### Maintained by Rajesh Gobindram Makhija
+
+#### Apologies for any errors or omissions
 
 #### Family members, please email update requests to:
 #### dm_ft@outlook.com    
