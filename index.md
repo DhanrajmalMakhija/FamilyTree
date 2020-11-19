@@ -857,8 +857,8 @@ Ritika | Rajesh ?
 
 Daughters | Sons
 :-------: | :--:
- | [Rati](#Rati)
- | [Vani](#Vani)
+[Rati](#Rati) | 
+[Vani](#Vani) | 
 
 ##### Go To [Generation 3](#Gen3)
 
