@@ -613,7 +613,7 @@ Daughters | Sons
 
 ##### Go To [Generation 3](#Gen3)
 
-## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> [Ramchand](#Ramchand) -> <a name="Bihari"></a> Bihari
+## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> [Ramchand](#Ramchand) -> <a name="BihariR"></a> Bihari
 
 Self | Spouse
 :--: | :----:
