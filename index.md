@@ -1,5 +1,3 @@
-# <a name="Dhanrajmal"></a> Dhanrajmal Balram Makhija
-
 # Dedicated to the Dhanrajmal Balram Makhija and his Family
 
 ### Inspired by Smt. Santosh Nandlal Chawla
@@ -10,6 +8,8 @@
 
 #### Family members, please email update requests to:
 #### dm_ft@outlook.com    
+
+# <a name="Dhanrajmal"></a> Dhanrajmal Balram Makhija
 
 Self | Spouse
 :--: | :----:
