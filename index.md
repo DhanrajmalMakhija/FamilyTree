@@ -252,9 +252,9 @@ Daughters | Sons
 
 ## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> <a name="Hari"></a> Hari
 
-Self | Spouse
-:--: | :----:
-Hari |  
+Self |
+:--: |
+Hari |
 ![Hari Img](images/Picture2.png) |  
  
 ##### Go To [Generation 2](#Gen2)
