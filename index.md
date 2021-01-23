@@ -14,7 +14,7 @@
 Self | Spouse
 :--: | :----:
 Dhanrajmal | Cheti 
-![Dhanrajmal Img](images/Dhanrajmal.png) | ![Cheti Img](images/Picture1.png)
+![Dhanrajmal Img](images/Dhanrajmal.PNG) | ![Cheti Img](images/Picture1.png)
 
 Daughters | Sons
 :-------: | :--:
