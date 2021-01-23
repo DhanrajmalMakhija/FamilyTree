@@ -33,6 +33,8 @@ Veera | Phagoomal ?
 
 Daughters | Sons
 :-------: | :--:
+ [Schagaan](#Schagaan) | [Lachmichand](#Lachmichand)
+ | [Udhi](#Udhi)
  | [Bihari](#Bihari)
  | [Siri](#Siri)      
 
@@ -829,7 +831,7 @@ Sharmila | ?
 
 Daughters | Sons
 :-------: | :--:
- | 
+ Jivika | Tushar
 
 ##### Go To [Generation 3](#Gen3)
 
@@ -842,7 +844,8 @@ Prakash | Jaya
 
 Daughters | Sons
 :-------: | :--:
- | 
+ Isha | Devendra
+ | Samarth
 
 ##### Go To [Generation 3](#Gen3)
 
@@ -855,7 +858,8 @@ Sunil | Karuna
 
 Daughters | Sons
 :-------: | :--:
- | 
+ | Harshvardhan
+ | Pranav 
 
 ##### Go To [Generation 3](#Gen3)
 
@@ -890,12 +894,8 @@ Daughters | Sons
 
 Self | Spouse
 :--: | :----:
-Sharan | ? 
+Sharan | Geetali 
 ![Sharan Img](images/Picture2.png) | ![? Img](images/Picture1.png)
-
-Daughters | Sons
-:-------: | :--:
- | 
 
 ##### Go To [Generation 3](#Gen3)
 
@@ -908,10 +908,6 @@ Self | Spouse
 Shweta | Varun Ratanpal 
 ![Shweta Img](images/Picture1.png) | ![Varun Img](images/Picture2.png)
 
-Daughters | Sons
-:-------: | :--:
- | 
-
 ##### Go To [Generation 4](#Gen4)
 
 ## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> [Kaushalya](#Kaushalya) -> [Duru](#Duru) -> <a name="Shilpa"></a> Shilpa
@@ -920,10 +916,6 @@ Self | Spouse
 :--: | :----:
 Shilpa | ? 
 ![Shilpa Img](images/Picture1.png) | ![? Img](images/Picture2.png)
-
-Daughters | Sons
-:-------: | :--:
- | 
 
 ##### Go To [Generation 4](#Gen4)
 
@@ -936,7 +928,7 @@ Sonu | Victoria
 
 Daughters | Sons
 :-------: | :--:
- | 
+ | Raayan 
 
 ##### Go To [Generation 4](#Gen4)
 
@@ -946,10 +938,6 @@ Self | Spouse
 :--: | :----:
 Nilesh | Jeevika 
 ![Nilesh Img](images/Picture2.png) | ![Jeevika Img](images/Picture1.png)
-
-Daughters | Sons
-:-------: | :--:
- | 
 
 ##### Go To [Generation 4](#Gen4)
 
@@ -1001,12 +989,8 @@ Seema |
 
 Self | Spouse
 :--: | :----:
-Jaitali | ? 
+Jaitali | Sudarshan 
 ![Jaitali Img](images/Picture1.png) | ![? Img](images/Picture2.png)
-
-Daughters | Sons
-:-------: | :--:
- | 
 
 ##### Go To [Generation 4](#Gen4)
 
@@ -1025,10 +1009,6 @@ Self | Spouse
 :--: | :----:
 Marvi | Ameya ?
 ![Marvi Img](images/Picture1.png) | ![Ameya Img](images/Picture2.png)
-
-Daughters | Sons
-:-------: | :--:
- | 
 
 ##### Go To [Generation 4](#Gen4)
 
@@ -1114,10 +1094,6 @@ Self | Spouse
 Ashish | Zalak
 ![Ashish Img](images/Picture2.png) | ![Zalak Img](images/Picture1.png)
 
-Daughters | Sons
-:-------: | :--:
- | 
-
 ##### Go To [Generation 4](#Gen4)
 
 ## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> [Ramchand](#Ramchand) -> [Bihari](#Bihari) -> <a name="SnehaB"></a> Sneha
@@ -1126,10 +1102,6 @@ Self | Spouse
 :--: | :----:
 Sneha | Sumit Chandwani
 ![Sneha Img](images/Picture1.png) | ![Sumit Img](images/Picture2.png)
-
-Daughters | Sons
-:-------: | :--:
- | 
 
 ##### Go To [Generation 4](#Gen4)
 
@@ -1162,10 +1134,6 @@ Self | Spouse
 Vivek | 
 ![Vivek Img](images/Picture2.png) | ![? Img](images/Picture1.png)
 
-Daughters | Sons
-:-------: | :--:
- | 
-
 ##### Go To [Generation 4](#Gen4)
 
 ## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Sheela](#Sheela) -> [Shalini](#Shalini) -> <a name="Vinod"></a> Vinod
@@ -1174,10 +1142,6 @@ Self | Spouse
 :--: | :----:
 Vinod | 
 ![Vinod Img](images/Picture2.png) | ![? Img](images/Picture1.png)
-
-Daughters | Sons
-:-------: | :--:
- | 
 
 ##### Go To [Generation 4](#Gen4)
 
