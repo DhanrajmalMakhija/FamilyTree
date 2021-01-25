@@ -432,12 +432,12 @@ Daughters | Sons
 
 ##### Go To [Generation 3](#Gen3)
 
-## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> <a name="Sabhita"></a> Sabhita
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> <a name="Sabitha"></a> Sabitha
 
 Self | Spouse
 :--: | :----:
-Sabhita |
-![Sabhita Img](images/Picture1.png) |
+Sabhtha |
+![Sabitha Img](images/Picture1.png) |
 
 ##### Go To [Generation 3](#Gen3)
 
