@@ -140,7 +140,7 @@ Daughters | Sons
 
 ##### Go To [Generation 2](#Gen2)
 
-## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="Bihari"></a> BihariV
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="BihariV"></a> Bihari
 
 Self | Spouse
 :--: | :----:
@@ -154,7 +154,7 @@ Daughters | Sons
 
 ##### Go To [Generation 2](#Gen2)
 
-## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="Srichand (Siri)"></a> Siri
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="Siri"></a> Srichand (Siri)
 
 Self | Spouse
 :--: | :----:
