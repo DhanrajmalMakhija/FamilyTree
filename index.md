@@ -30,15 +30,15 @@ Daughters | Sons
 
 Self | Spouse
 :--: | :----:
-Veera | Phagoomal ? 
-![Veera Img](images/Picture2.png) | ![Phagoomal Img](images/Picture1.png)
+Veera | Fagoomal Asrani
+![Veera Img](images/Picture2.png) | ![Fagoomal Img](images/Picture1.png)
 
 Daughters | Sons
 :-------: | :--:
  [Schagaan](#Schagaan) | [Lachmichand](#Lachmichand)
  | [Udhi](#Udhi)
- | [Bihari](#Bihari)
- | [Siri](#Siri)      
+ | [Bihari](#BihariV)
+ | [Srichand (Siri)](#Siri)      
 
 ##### Go To [Generation 1](#Gen1)
 
@@ -101,12 +101,12 @@ Daughters | Sons
 
 # <a name="Gen2"></a> Generation 2
 
-## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="Bihari"></a> Bihari
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="Schagaan"></a> Schagaan
 
 Self | Spouse
 :--: | :----:
-Bihari | ? 
-![Bihari Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+Schagaan | ? 
+![Schagaan Img](images/Picture2.png) | ![? Img](images/Picture1.png)
 
 Daughters | Sons
 :-------: | :--:
@@ -114,16 +114,59 @@ Daughters | Sons
 
 ##### Go To [Generation 2](#Gen2)
 
-## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="Siri"></a> Siri
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="Lachmichand"></a> Lachmichand
 
 Self | Spouse
 :--: | :----:
-Siri | ? 
-![Siri Img](images/Picture1.png) | ![? Img](images/Picture2.png)
+Lachmichand | Janki 
+![Lachmichand Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+[DaughterofLachmichand](#DaughterOfLachmichand) | 
+
+##### Go To [Generation 2](#Gen2)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="Udhi"></a> Udhi
+
+Self | Spouse
+:--: | :----:
+Udhi | Peggy 
+![Udhi Img](images/Picture2.png) | ![Peggy Img](images/Picture1.png)
 
 Daughters | Sons
 :-------: | :--:
 ? | ?
+
+##### Go To [Generation 2](#Gen2)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="Bihari"></a> BihariV
+
+Self | Spouse
+:--: | :----:
+Bihari | Vidya 
+![Bihari Img](images/Picture2.png) | ![Vidya Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+[Aarti](#Aarti) | [Prakash](#PrakashB)
+[Archana](#Archana) | 
+
+##### Go To [Generation 2](#Gen2)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="Srichand (Siri)"></a> Siri
+
+Self | Spouse
+:--: | :----:
+Siri | Kamlesh 
+![Siri Img](images/Picture1.png) | ![KamleshS Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+? | 
+? | 
+[Sabitha](#Sabitha) | 
+[Upasana](#Upasana) | 
 
 ##### Go To [Generation 2](#Gen2)
 
@@ -334,6 +377,82 @@ Daughters | Sons
 ##### Go To [Generation 2](#Gen2)
 
 # <a name="Gen3"></a> Generation 3
+
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Lachmichand](#Lachmichand) -> <a name="DaughterOfLachmichand"></a> DaughterOfLachmichand
+
+Self | Spouse
+:--: | :----:
+? | ? Asrani 
+![DaughterOfLachmichand Img](images/Picture1.png) | ![? Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+ | [Deepak](#DeepakL)
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Bihari](#BihariV) -> <a name="Prakash"></a> PrakashB
+
+Self | Spouse
+:--: | :----:
+Prakash | Neeta
+![PrakashB Img](images/Picture1.png) | ![NeetaP Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+? | 
+? |
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Bihari](#BihariV) -> <a name="Aarti"></a> Aarti
+
+Self | Spouse
+:--: | :----:
+Aarti | Shyam Bhatija
+![Aarti Img](images/Picture1.png) | ![Shyam Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+ | ?
+ | ?
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Bihari](#BihariV) -> <a name="Archana"></a> Archana
+
+Self | Spouse
+:--: | :----:
+Archana | ? Chitkara
+![Archana Img](images/Picture1.png) | ![? Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+ | ?
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> <a name="Sabhita"></a> Sabhita
+
+Self | Spouse
+:--: | :----:
+Sabhita |
+![Sabhita Img](images/Picture1.png) |
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> <a name="Upasana"></a> Upasana
+
+Self | Spouse
+:--: | :----:
+Upasana | Sameer
+![Upasana Img](images/Picture1.png) | [Sameer Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+ | ?
+
+##### Go To [Generation 3](#Gen3)
 
 ## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> [Lila](#Lila) -> <a name="Kamla"></a> Kamla
 
@@ -902,6 +1021,19 @@ Sharan | Geetali
 ##### Go To [Generation 3](#Gen3)
 
 # <a name="Gen4"></a> Generation 4
+
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Lachmichand](#Lachmichand) -> [DaughterOfLachmichand](#DaughterOfLachmichand) -> <a name="Deepak"></a> DeepakL
+
+Self | Spouse
+:--: | :----:
+Deepak | Neeta 
+![DeepakL Img](images/Picture1.png) | ![Neeta Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+ ? | [Adit](#Adit) 
+
+##### Go To [Generation 4](#Gen4)
 
 ## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> [Kaushalya](#Kaushalya) -> [Duru](#Duru) -> <a name="Shweta"></a> Shweta
 
