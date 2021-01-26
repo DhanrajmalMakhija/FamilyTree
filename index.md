@@ -9,7 +9,7 @@
 #### Family members, please email update requests to:
 #### dm_ft@outlook.com    
 
-##### Last Updated: Jan 24th 2021
+##### Last Updated: Jan 26th 2021
 
 # <a name="Dhanrajmal"></a> Dhanrajmal Balram Makhija
 
@@ -1282,6 +1282,39 @@ Self | Spouse
 :--: | :----:
 Vinod | Ellie
 ![Vinod Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+
+##### Go To [Generation 4](#Gen4)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Sheela](#Sheela) -> [Jawahar](#Jawahar) -> <a name="Lav"></a> Lav
+
+Self | Spouse
+:--: | :----:
+Lav | Vibhuti
+![Lav Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+ | [Suraj](#Suraj) 
+
+##### Go To [Generation 4](#Gen4)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Sheela](#Sheela) -> [Jawahar](#Jawahar) -> <a name="Kush"></a> Kush
+
+Self | Spouse
+:--: | :----:
+Kush | Sonakshi
+![Kush Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+
+Daughters | Sons
+:-------: | :--:
+ [Sumana](#Sumana) | [Suchet](#Suchet) 
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Sheela](#Sheela) -> [Manu](#Manu) -> <a name="Aditya"></a> Aditya
+
+Self | Spouse
+:--: | :----:
+Aditya | Mitali
+![Aditya Img](images/Picture2.png) | ![? Img](images/Picture1.png)
 
 ##### Go To [Generation 4](#Gen4)
 
