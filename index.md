@@ -391,7 +391,7 @@ Daughters | Sons
 
 ##### Go To [Generation 3](#Gen3)
 
-## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Bihari](#BihariV) -> <a name="Prakash"></a> PrakashB
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Bihari](#BihariV) -> <a name="PrakashB"></a> Prakash
 
 Self | Spouse
 :--: | :----:
@@ -436,7 +436,7 @@ Daughters | Sons
 
 Self | Spouse
 :--: | :----:
-Sabhtha |
+Sabitha |
 ![Sabitha Img](images/Picture1.png) |
 
 ##### Go To [Generation 3](#Gen3)
