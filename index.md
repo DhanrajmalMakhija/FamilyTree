@@ -101,7 +101,7 @@ Daughters | Sons
 
 # <a name="Gen2"></a> Generation 2
 
-## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="Shagha"></a> Schagaan
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="Shagha"></a> Shagha
 
 Self | Spouse
 :--: | :----:
@@ -889,7 +889,7 @@ Prakash | Rita
 
 Daughters | Sons
 :-------: | :--:
-[Priti](#Priti) | [Krishna](Krishna)
+[Priti](#Priti) | [Krishna](#Krishna)
 
 ##### Go To [Generation 3](#Gen3)
 
