@@ -35,7 +35,7 @@ Veera | Fagoomal Asrani
 
 Daughters | Sons
 :-------: | :--:
- [Schagaan](#Schagaan) | [Lachmichand](#Lachmichand)
+ [Shagha](#Shagha) | [Lachmichand](#Lachmichand)
  | [Udhi](#Udhi)
  | [Bihari](#BihariV)
  | [Srichand (Siri)](#Siri)      
@@ -76,7 +76,7 @@ Daughters | Sons
 
 Self | Spouse
 :--: | :----:
-Rupchand | ? 
+Rupchand | Laxmi 
 ![Rupchand Img](images/Picture2.png) | ![? Img](images/Picture1.png)
 
 Daughters | Sons
@@ -101,16 +101,18 @@ Daughters | Sons
 
 # <a name="Gen2"></a> Generation 2
 
-## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="Schagaan"></a> Schagaan
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> <a name="Shagha"></a> Schagaan
 
 Self | Spouse
 :--: | :----:
-Schagaan | ? 
-![Schagaan Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+Shagha | Atmaram 
+![Shagha Img](images/Picture2.png) | ![? Img](images/Picture1.png)
 
 Daughters | Sons
 :-------: | :--:
-? | ?
+[Baby](#BabyS) | [Dileep](#Dileep)
+ | [Raja](#Raja)
+ | [Anand](#Anand)
 
 ##### Go To [Generation 2](#Gen2)
 
@@ -855,12 +857,13 @@ Daughters | Sons
 
 Self | Spouse
 :--: | :----:
-Bansi | ?
+Bansi | Manju
 ![Bansi Img](images/Picture2.png) | ![? Img](images/Picture1.png)
 
 Daughters | Sons
 :-------: | :--:
- | 
+ | [Vijay](#Vijay)
+ | [Madan](#Madan)
 
 ##### Go To [Generation 3](#Gen3)
 
@@ -868,12 +871,12 @@ Daughters | Sons
 
 Self | Spouse
 :--: | :----:
-Srichand | ?
+Srichand | Veena
 ![Srichand Img](images/Picture2.png) | ![? Img](images/Picture1.png)
 
 Daughters | Sons
 :-------: | :--:
- | 
+ | [Sharan](#SharanS)
 
 ##### Go To [Generation 3](#Gen3)
 
@@ -881,12 +884,12 @@ Daughters | Sons
 
 Self | Spouse
 :--: | :----:
-Prakash | ?
+Prakash | Rita
 ![PrakashV Img](images/Picture2.png) | ![? Img](images/Picture1.png)
 
 Daughters | Sons
 :-------: | :--:
- | 
+[Priti](#Priti) | [Krishna](Krishna)
 
 ##### Go To [Generation 3](#Gen3)
 
