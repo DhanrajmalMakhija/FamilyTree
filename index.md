@@ -384,7 +384,7 @@ Daughters | Sons
 
 Self | Spouse
 :--: | :----:
-[Baby](#Baby) | ? 
+Baby | ? 
 ![BabyS Img](images/Picture1.png) | ![? Img](images/Picture2.png)
 
 Daughters | Sons
@@ -397,7 +397,7 @@ Daughters | Sons
 
 Self | Spouse
 :--: | :----:
-[Dileep](#Dileep) | ? 
+Dileep | ? 
 ![Dileep Img](images/Picture1.png) | ![? Img](images/Picture2.png)
 
 Daughters | Sons
@@ -410,7 +410,7 @@ Daughters | Sons
 
 Self | Spouse
 :--: | :----:
-[Raja](#Raja) | ? 
+Raja | ? 
 ![Raja Img](images/Picture1.png) | ![? Img](images/Picture2.png)
 
 Daughters | Sons
@@ -423,7 +423,7 @@ Daughters | Sons
 
 Self | Spouse
 :--: | :----:
-[Anand](#Anand) | ? 
+Anand | ? 
 ![Anand Img](images/Picture1.png) | ![? Img](images/Picture2.png)
 
 Daughters | Sons
