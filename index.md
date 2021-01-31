@@ -380,6 +380,58 @@ Daughters | Sons
 
 # <a name="Gen3"></a> Generation 3
 
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Shagha](#Shagha) -> <a name="BabyS"></a> Baby
+
+Self | Spouse
+:--: | :----:
+[Baby](#Baby) | ? 
+![BabyS Img](images/Picture1.png) | ![? Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+ | 
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Shagha](#Shagha) -> <a name="Dileep"></a> Dileep
+
+Self | Spouse
+:--: | :----:
+[Dileep](#Dileep) | ? 
+![Dileep Img](images/Picture1.png) | ![? Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+ | 
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Shagha](#Shagha) -> <a name="Raja"></a> Raja
+
+Self | Spouse
+:--: | :----:
+[Raja](#Raja) | ? 
+![Raja Img](images/Picture1.png) | ![? Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+ | 
+
+##### Go To [Generation 3](#Gen3)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Shagha](#Shagha) -> <a name="Anand"></a> Anand
+
+Self | Spouse
+:--: | :----:
+[Anand](#Anand) | ? 
+![Anand Img](images/Picture1.png) | ![? Img](images/Picture2.png)
+
+Daughters | Sons
+:-------: | :--:
+ | 
+
+##### Go To [Generation 3](#Gen3)
+
 ## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Lachmichand](#Lachmichand) -> <a name="DaughterOfLachmichand"></a> DaughterOfLachmichand
 
 Self | Spouse
