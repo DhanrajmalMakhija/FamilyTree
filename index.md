@@ -1018,7 +1018,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Prakash | Jaya 
-![Prakash Img](images/PrakashChawla.png) | ![Jaya Img](images/JayaChawla.png)
+![Prakash Img](images/PrakashN.png) | ![Jaya Img](images/Jaya.png)
 
 Daughters | Sons
 :-------: | :--:
