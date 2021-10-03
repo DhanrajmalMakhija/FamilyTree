@@ -354,8 +354,8 @@ Daughters | Sons
 
 Self | Spouse
 :--: | :----:
-Santosh | Nandlal 
-![Santosh Img](images/Santosh.PNG) | ![Nandlal Img](images/Nandlal.png)
+Santosh | Nandlal Chawla
+![Santosh Img](images/Santosh.PNG) | ![Nandlal Img](images/Nandlal.PNG)
 
 Daughters | Sons
 :-------: | :--:
