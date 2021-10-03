@@ -1032,7 +1032,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Sunil | Karuna 
-![Sunil Img](images/Picture2.png) | ![Karuna Img](images/Picture1.png)
+![Sunil Img](images/SunilN.PNG) | ![Karuna Img](images/Karuna.PNG)
 
 Daughters | Sons
 :-------: | :--:
