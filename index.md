@@ -49,7 +49,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 ? | ? 
-![? Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+![? Img](images/Picture1.png) | ![? Img](images/Picture2.png)
 
 Daughters | Sons
 :-------: | :--:
@@ -62,7 +62,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Mohandas | Rukmanibai 
-![Mohandas Img](images/Picture2.png) | ![Rukmanibai Img](images/Picture1.png)
+![Mohandas Img](images/Mohandas.PNG) | ![Rukmanibai Img](images/Rukmanibai.PNG)
 
 Daughters | Sons
 :-------: | :--:
@@ -292,7 +292,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Gobindram | Kamla 
-![Gobindram Img](images/Picture2.png) | ![KamlaG Img](images/KamlaG.png)
+![Gobindram Img](images/Gobindram.png) | ![KamlaG Img](images/KamlaG.png)
 
 Daughters | Sons
 :-------: | :--:
@@ -497,7 +497,7 @@ Resham | Narayan Sadarangani
 
 Daughters | Sons
 :-------: | :--:
-[Reena](#Renna) | [Prashant](#Prashant) 
+[Renna](#Renna) | [Prashant](#Prashant) 
 
 ##### Go To [Generation 3](#Gen3)
 
