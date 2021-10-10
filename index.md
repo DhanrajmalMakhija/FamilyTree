@@ -530,7 +530,7 @@ Sabitha |
 Self | Spouse
 :--: | :----:
 Upasana | Sameer Chhabria
-![Upasana Img](images/Upasana.PNG) | [Sameer Img](images/Sameer.PNG)
+![Upasana Img](images/Upasana.PNG) | ![Sameer Img](images/Sameer.PNG)
 
 Daughters | Sons
 :-------: | :--:
