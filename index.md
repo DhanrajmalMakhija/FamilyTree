@@ -504,7 +504,7 @@ Upasana | Sameer Chhabria
 
 Daughters | Sons
 :-------: | :--:
- | ?
+ | [Amrit](#Amrit)
 
 ##### Go To [Generation 3](#Gen3)
 
@@ -1433,6 +1433,15 @@ Self |
 :--: |
 Pranav | 
 ![Pranav Img](images/Pranav.PNG) | 
+
+##### Go To [Generation 4](#Gen4)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> [Upasana](#Upasana) -> <a name="Amrit"></a> Amrit
+
+Self |
+:--: |
+Amrit | 
+![Amrit Img](images/Amrit.PNG) | 
 
 ##### Go To [Generation 4](#Gen4)
 
