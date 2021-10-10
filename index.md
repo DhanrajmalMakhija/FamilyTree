@@ -491,7 +491,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Sabitha |
-![Sabitha Img](images/Picture1.png) |
+![Sabitha Img](images/Sabitha.PNG) |
 
 ##### Go To [Generation 3](#Gen3)
 
@@ -499,8 +499,8 @@ Sabitha |
 
 Self | Spouse
 :--: | :----:
-Upasana | Sameer
-![Upasana Img](images/Picture1.png) | [Sameer Img](images/Picture2.png)
+Upasana | Sameer Chhabria
+![Upasana Img](images/Upasana.PNG) | [Sameer Img](images/Sameer.PNG)
 
 Daughters | Sons
 :-------: | :--:
