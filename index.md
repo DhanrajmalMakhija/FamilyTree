@@ -1378,7 +1378,7 @@ Aditya | Mitali
 Self | Spouse
 :--: | :----:
 Isha | 
-![Isha Img](images/Isha.PNG) | ![? Img](images/Picture2.png)
+![Isha Img](images/Isha.PNG) | 
 
 ##### Go To [Generation 4](#Gen4)
 
@@ -1387,7 +1387,7 @@ Isha |
 Self | Spouse
 :--: | :----:
 Devendra | 
-![Devendra Img](images/Dvendra.PNG) | ![? Img](images/Picture1.png)
+![Devendra Img](images/Devendra.PNG) | 
 
 ##### Go To [Generation 4](#Gen4)
 
@@ -1396,7 +1396,7 @@ Devendra |
 Self | Spouse
 :--: | :----:
 Samarth | 
-![Samarth Img](images/Samarth.PNG) | ![? Img](images/Picture1.png)
+![Samarth Img](images/Samarth.PNG) | 
 
 ##### Go To [Generation 4](#Gen4)
 
