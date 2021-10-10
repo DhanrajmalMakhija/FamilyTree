@@ -1451,7 +1451,7 @@ Pranav |
 
 ##### Go To [Generation 4](#Gen4)
 
-## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> [Upasana](#Preethi) -> <a name="Sheena"></a> Sheena
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> [Preethi](#Preethi) -> <a name="Sheena"></a> Sheena
 
 Self |
 :--: |
@@ -1464,7 +1464,7 @@ Daughters | Sons
 
 ##### Go To [Generation 4](#Gen4)
 
-## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> [Upasana](#Preethi) -> <a name="Sonia"></a> Sonia
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> [Preethi](#Preethi) -> <a name="Sonia"></a> Sonia
 
 Self |
 :--: |
@@ -1473,7 +1473,7 @@ Sonia |
 
 ##### Go To [Generation 4](#Gen4)
 
-## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> [Upasana](#Preethi) -> <a name="Karishma"></a> Sonia
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> [Preethi](#Preethi) -> <a name="Karishma"></a> Sonia
 
 Self |
 :--: |
