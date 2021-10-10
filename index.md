@@ -9,7 +9,7 @@
 #### Family members, please email update requests to:
 #### dm_ft@outlook.com    
 
-##### Last Updated: Jan 26th 2021
+##### Last Updated: 10th October 2021
 
 # <a name="Dhanrajmal"></a> Dhanrajmal Balram Makhija
 
@@ -1370,6 +1370,33 @@ Self | Spouse
 :--: | :----:
 Aditya | Mitali
 ![Aditya Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+
+##### Go To [Generation 4](#Gen4)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> [Prakash](#PrakashN) -> <a name="Isha"></a> Isha
+
+Self | Spouse
+:--: | :----:
+Isha | 
+![Isha Img](images/Picture1.png) | ![? Img](images/Picture2.png)
+
+##### Go To [Generation 4](#Gen4)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> [Prakash](#PrakashN) -> <a name="Devendra"></a> Devendra
+
+Self | Spouse
+:--: | :----:
+Devendra | 
+![Devendra Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+
+##### Go To [Generation 4](#Gen4)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> [Prakash](#PrakashN) -> <a name="Samarth"></a> Samarth
+
+Self | Spouse
+:--: | :----:
+Samarth | 
+![Samarth Img](images/Picture2.png) | ![? Img](images/Picture1.png)
 
 ##### Go To [Generation 4](#Gen4)
 
