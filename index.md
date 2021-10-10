@@ -1036,7 +1036,7 @@ Sunil | Karuna
 
 Daughters | Sons
 :-------: | :--:
- | [Harshvardhan](#Harshavardhan)
+ | [Harshvardhan](#Harshvardhan)
  | [Pranav](#Pranav) 
 
 ##### Go To [Generation 3](#Gen3)
