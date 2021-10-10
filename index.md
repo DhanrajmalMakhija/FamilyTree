@@ -927,7 +927,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Rajesh | Shashi
-![Rajesh Img](images/Rajesh.png) | ![Shashi Img](images/Picture1.png)
+![Rajesh Img](images/Rajesh.png) | ![Shashi Img](images/Shashi.png)
 
 Daughters | Sons
 :-------: | :--:
@@ -1344,7 +1344,7 @@ Daughters | Sons
 Self |
 :--: |
 Neha | 
-![Neha Img](images/Picture1.png) |
+![Neha Img](images/Neha.png) |
 
 ##### Go To [Generation 4](#Gen4)
 
