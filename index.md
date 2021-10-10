@@ -1375,8 +1375,8 @@ Aditya | Mitali
 
 ## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> [Sharmila](#Sharmila) -> <a name="Jivika"></a> Jivika
 
-Self | Spouse
-:--: | :----:
+Self |
+:--: |
 Jivika | 
 ![Jivika Img](images/Jivika.PNG) | 
 
@@ -1384,8 +1384,8 @@ Jivika |
 
 ## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> [Sharmila](#Sharmila) -> <a name="Tushar"></a> Tushar
 
-Self | Spouse
-:--: | :----:
+Self |
+:--: |
 Tushar | 
 ![Tushar Img](images/Tushar.PNG) | 
 
@@ -1393,8 +1393,8 @@ Tushar |
 
 ## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> [Prakash](#PrakashN) -> <a name="Isha"></a> Isha
 
-Self | Spouse
-:--: | :----:
+Self |
+:--: |
 Isha | 
 ![Isha Img](images/Isha.PNG) | 
 
@@ -1402,8 +1402,8 @@ Isha |
 
 ## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> [Prakash](#PrakashN) -> <a name="Devendra"></a> Devendra
 
-Self | Spouse
-:--: | :----:
+Self |
+:--: |
 Devendra | 
 ![Devendra Img](images/Devendra.PNG) | 
 
@@ -1411,8 +1411,8 @@ Devendra |
 
 ## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> [Prakash](#PrakashN) -> <a name="Samarth"></a> Samarth
 
-Self | Spouse
-:--: | :----:
+Self |
+:--: |
 Samarth | 
 ![Samarth Img](images/Samarth.PNG) | 
 
@@ -1420,8 +1420,8 @@ Samarth |
 
 ## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> [Sunil](#Sunil) -> <a name="Harshvardhan"></a> Harshvardhan
 
-Self | Spouse
-:--: | :----:
+Self |
+:--: |
 Harshvardhan | 
 ![Harshvardhan Img](images/Harsh.PNG) | 
 
@@ -1429,8 +1429,8 @@ Harshvardhan |
 
 ## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> [Sunil](#Sunil) -> <a name="Pranav"></a> Pranav
 
-Self | Spouse
-:--: | :----:
+Self |
+:--: |
 Pranav | 
 ![Pranav Img](images/Pranav.PNG) | 
 
