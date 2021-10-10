@@ -31,7 +31,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Veera | Fagoomal Asrani
-![Veera Img](images/Picture2.png) | ![Fagoomal Img](images/Picture1.png)
+![Veera Img](images/Picture1.png) | ![Fagoomal Img](images/Picture2.png)
 
 Daughters | Sons
 :-------: | :--:
