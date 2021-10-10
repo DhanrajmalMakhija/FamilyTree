@@ -488,8 +488,8 @@ Daughters | Sons
 
 ## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> <a name="Sabitha"></a> Sabitha
 
-Self | Spouse
-:--: | :----:
+Self |
+:--: |
 Sabitha |
 ![Sabitha Img](images/Sabitha.PNG) |
 
