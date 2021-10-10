@@ -1479,8 +1479,8 @@ Daughters | Sons
 
 ## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> [Resham](#Resham) -> <a name="Renna"></a> Renna
 
-Self | Spouse
-:--: | :---: 
+Self |
+:--: | 
 Renna |
 ![Renna Img](images/Renna.PNG) |
 
