@@ -108,7 +108,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Shagha | Atmaram 
-![Shagha Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+![Shagha Img](images/Picture1.png) | ![? Img](images/Picture2.png)
 
 Daughters | Sons
 :-------: | :--:
