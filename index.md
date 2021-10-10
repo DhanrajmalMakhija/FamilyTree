@@ -4,6 +4,8 @@
 
 ### Maintained by Rajesh Gobindram Makhija
 
+#### Text in blue are links to help navigate the family tree
+
 #### Apologies for any errors or omissions
 
 #### Family members, please email update requests to:
@@ -290,7 +292,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Gobindram | Kamla 
-![Gobindram Img](images/Picture2.png) | ![KamlaG Img](images/Picture1.png)
+![Gobindram Img](images/Picture2.png) | ![KamlaG Img](images/KamlaG.png)
 
 Daughters | Sons
 :-------: | :--:
