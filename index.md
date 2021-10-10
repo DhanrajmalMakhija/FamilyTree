@@ -486,6 +486,19 @@ Daughters | Sons
 
 ##### Go To [Generation 3](#Gen3)
 
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> <a name="Resham"></a> Resham
+
+Self | Spouse
+:--: | :----:
+Resham | Narayan Sadarangani
+![Resham Img](images/Resham.PNG) | ![Narayan Img](images/Narayan.PNG)
+
+Daughters | Sons
+:-------: | :--:
+[Reena](#Reena) | [Prashant](#Prashant) 
+
+##### Go To [Generation 3](#Gen3)
+
 ## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> <a name="Preethi"></a> Preethi
 
 Self | Spouse
