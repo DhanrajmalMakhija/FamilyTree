@@ -1036,8 +1036,8 @@ Sunil | Karuna
 
 Daughters | Sons
 :-------: | :--:
- | Harshvardhan
- | Pranav 
+ | [Harshvardhan](#Harshavardhan)
+ | [Pranav](#Pranav) 
 
 ##### Go To [Generation 3](#Gen3)
 
@@ -1397,6 +1397,24 @@ Self | Spouse
 :--: | :----:
 Samarth | 
 ![Samarth Img](images/Samarth.PNG) | 
+
+##### Go To [Generation 4](#Gen4)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> [Sunil](#Sunil) -> <a name="Harshvardhan"></a> Harshvardhan
+
+Self | Spouse
+:--: | :----:
+Harshvardhan | 
+![Harshvardhan Img](images/Harsh.PNG) | 
+
+##### Go To [Generation 4](#Gen4)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> [Sunil](#Sunil) -> <a name="Pranav"></a> Pranav
+
+Self | Spouse
+:--: | :----:
+Pranav | 
+![Pranav Img](images/Pranav.PNG) | 
 
 ##### Go To [Generation 4](#Gen4)
 
