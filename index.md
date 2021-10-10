@@ -1009,7 +1009,7 @@ Sharmila | Dharmesh Mangwani
 
 Daughters | Sons
 :-------: | :--:
- Jivika | Tushar
+ [Jivika](#Jivika) | [Tushar](#Tushar)
 
 ##### Go To [Generation 3](#Gen3)
 
@@ -1370,6 +1370,24 @@ Self | Spouse
 :--: | :----:
 Aditya | Mitali
 ![Aditya Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+
+##### Go To [Generation 4](#Gen4)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> [Sharmila](#Sharmila) -> <a name="Jivika"></a> Jivika
+
+Self | Spouse
+:--: | :----:
+Jivika | 
+![Jivika Img](images/Jivika.PNG) | 
+
+##### Go To [Generation 4](#Gen4)
+
+## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Santosh](#Santosh) -> [Sharmila](#Sharmila) -> <a name="Tushar"></a> Tushar
+
+Self | Spouse
+:--: | :----:
+Tushar | 
+![Tushar Img](images/Tushar.PNG) | 
 
 ##### Go To [Generation 4](#Gen4)
 
