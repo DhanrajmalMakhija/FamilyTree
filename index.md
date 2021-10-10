@@ -1022,8 +1022,8 @@ Prakash | Jaya
 
 Daughters | Sons
 :-------: | :--:
- Isha | Devendra
- | Samarth
+ [Isha](#Isha) | [Devendra](#Devendra)
+ | [Samarth](#Samarth)
 
 ##### Go To [Generation 3](#Gen3)
 
