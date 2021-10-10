@@ -486,6 +486,21 @@ Daughters | Sons
 
 ##### Go To [Generation 3](#Gen3)
 
+## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> <a name="Preethi"></a> Preethi
+
+Self | Spouse
+:--: | :----:
+Preethi | Kishore Luthria
+![Preethi Img](images/Preethi.PNG) | ![Kishore Img](images/KishoreL.PNG)
+
+Daughters | Sons
+:-------: | :--:
+[Sheena](#Sheena) | 
+[Sonia](#Sonia) | 
+[Karishma](#Karishma) | 
+
+##### Go To [Generation 3](#Gen3)
+
 ## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Veera) -> [Siri](#Siri) -> <a name="Sabitha"></a> Sabitha
 
 Self |
