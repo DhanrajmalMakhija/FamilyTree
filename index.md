@@ -161,7 +161,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Siri | Kamlesh 
-![Siri Img](images/Picture1.png) | ![KamleshS Img](images/Picture2.png)
+![Siri Img](images/Siri.PNG) | ![KamleshS Img](images/KamleshS.PNG)
 
 Daughters | Sons
 :-------: | :--:
