@@ -1471,7 +1471,7 @@ Pranav |
 Self | Spouse
 :--: | :---: 
 Prashant | Anika
-![Prashant Img](images/Prashant.PNG) | ![Anika Img](images/Anika.PNG) 
+![Prashant Img](images/Prashant.PNG) | ![Anika Img](images/AnikaP.PNG) 
 
 Daughters | Sons
 :-------: | :--:
@@ -1484,7 +1484,7 @@ Daughters | Sons
 Self |
 :--: | 
 Renna |
-![Renna Img](images/Renna.PNG) |
+![Renna Img](images/RennaR.PNG) |
 
 ##### Go To [Generation 4](#Gen4)
 
