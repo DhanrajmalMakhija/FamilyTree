@@ -914,7 +914,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Vishu | Neelu
-![Vishu Img](images/Picture2.png) | ![Neelu Img](images/Picture1.png)
+![Vishu Img](images/Vishu.png) | ![Neelu Img](images/Neelu.png)
 
 Daughters | Sons
 :-------: | :--:
@@ -1331,7 +1331,7 @@ Sneha | Sumit Chandwani
 Self | Spouse
 :--: | :----:
 Karan | Geeta
-![Karan Img](images/Picture2.png) | ![Geeta Img](images/Picture1.png)
+![Karan Img](images/Karan.png) | ![Geeta Img](images/Geeta.png)
 
 Daughters | Sons
 :-------: | :--:
@@ -1589,7 +1589,7 @@ Sanchi |
 Self |
 :--: |
 Tanishka |
-![Tanishka Img](images/Picture1.png) |
+![Tanishka Img](images/Tanishka.png) |
 
 ##### Go To [Generation 5](#Gen5)
 
