@@ -1611,11 +1611,11 @@ Sebistin |
 
 ##### Go To [Generation 5](#Gen5)
 
-## [Dhanrajmal](#Dhanrajmal) -> [Veera](#Mohandas) -> [Siri](#Kaushalya) -> [Preethi](#Duru) -> [Sheena](#Sonu) -> <a name="Raayan"></a> Raayan
+## [Dhanrajmal](#Dhanrajmal) -> [Mohandas](#Mohandas) -> [Kaushalya](#Kaushalya) -> [Duru](#Duru) -> [Sonu](#Sonu) -> <a name="Raayan"></a> Raayan
 
 Self |
 :--: |
-Sebistin |
+Raayan |
 ![Raayan Img](images/Raayan.PNG) |
 
 ##### Go To [Generation 5](#Gen5)
