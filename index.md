@@ -1127,7 +1127,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Shweta | Varun Ratanpal 
-![Shweta Img](images/Shewta.png) | ![Varun Img](images/Varun.png)
+![Shweta Img](images/Shweta.png) | ![Varun Img](images/Varun.png)
 
 ##### Go To [Generation 4](#Gen4)
 
@@ -1616,7 +1616,7 @@ Sebistin |
 Self |
 :--: |
 Raayan |
-![Raayan Img](images/Raayan.PNG) |
+![Raayan Img](images/Raayan.png) |
 
 ##### Go To [Generation 5](#Gen5)
 
