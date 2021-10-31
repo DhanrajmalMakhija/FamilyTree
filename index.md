@@ -741,7 +741,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Sweety | Kumar Dedhia
-![Sweety Img](images/Picture1.png) | ![Kumar Img](images/Picture2.png)
+![Sweety Img](images/Sweety.png) | ![Kumar Img](images/Kumar.png)
 
 Daughters | Sons
 :-------: | :--:
@@ -1211,7 +1211,7 @@ Seema |
 Self | Spouse
 :--: | :----:
 Jaitali | Sudarshan 
-![Jaitali Img](images/Picture1.png) | ![? Img](images/Picture2.png)
+![Jaitali Img](images/Jaitali.png) | ![? Img](images/Sudarshan.png)
 
 ##### Go To [Generation 4](#Gen4)
 
@@ -1220,7 +1220,7 @@ Jaitali | Sudarshan
 Self |
 :--: |
 Shivani |
-![Shivani Img](images/Picture1.png) |
+![Shivani Img](images/Shivani.png) |
 
 ##### Go To [Generation 4](#Gen4)
 
