@@ -92,7 +92,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Lachmandas | Janki 
-![Lachmandas Img](images/Picture2.png) | ![Janki Img](images/Picture1.png)
+![Lachmandas Img](images/Lachmandas.png) | ![Janki Img](images/Janki.png)
 
 Daughters | Sons
 :-------: | :--:
