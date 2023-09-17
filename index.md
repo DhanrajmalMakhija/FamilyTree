@@ -967,7 +967,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Prakash | Rita
-![PrakashV Img](images/Picture2.png) | ![? Img](images/Picture1.png)
+![PrakashV Img](images/PrakashVMakhija.png) | ![? Img](images/RitaPMakhija.png)
 
 Daughters | Sons
 :-------: | :--:
