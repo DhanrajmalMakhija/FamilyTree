@@ -1348,6 +1348,15 @@ Neha |
 
 ##### Go To [Generation 4](#Gen4)
 
+## [Dhanrajmal](#Dhanrajmal) -> [Rupchand](#Rupchand) -> [Vashu](#Vashu) -> [Prakash](#PrakashV) -> <a name="Krishna"></a> Krishna
+
+Self |
+:--: |
+Krishna | 
+![Krishna Img](images/KrishnaPMakhija.png) |
+
+##### Go To [Generation 4](#Gen4)
+
 ## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Sheela](#Sheela) -> [Shalini](#Shalini) -> <a name="Vivek"></a> Vivek
 
 Self | Spouse
