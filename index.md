@@ -1357,6 +1357,15 @@ Krishna |
 
 ##### Go To [Generation 4](#Gen4)
 
+## [Dhanrajmal](#Dhanrajmal) -> [Rupchand](#Rupchand) -> [Vashu](#Vashu) -> [Priti](#Priti) -> <a name="Priti"></a> Priti
+
+Self |
+:--: |
+Priti | 
+![Priti Img](images/PritiPMakhija.png) |
+
+##### Go To [Generation 4](#Gen4)
+
 ## [Dhanrajmal](#Dhanrajmal) -> [Lachmandas](#Lachmandas) -> [Sheela](#Sheela) -> [Shalini](#Shalini) -> <a name="Vivek"></a> Vivek
 
 Self | Spouse
