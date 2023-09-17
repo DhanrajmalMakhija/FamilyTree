@@ -2,7 +2,7 @@
 
 ### Inspired by Smt. Santosh Nandlal Chawla
 
-### Maintained by Rajesh Gobindram Makhija
+### Maintained by Rajesh Gobindram Makhija 2
 
 #### Text in blue are links to help navigate the family tree
 
@@ -53,7 +53,7 @@ Self | Spouse
 
 Daughters | Sons
 :-------: | :--:
- [Gopi](#Gopi) | 
+  | [Gopi](#Gopi) 
  
 ##### Go To [Generation 1](#Gen1)
 
