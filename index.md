@@ -53,7 +53,7 @@ Self | Spouse
 
 Daughters | Sons
 :-------: | :--:
- [Gopi](#Gopi) | 
+  | [Gopi](#Gopi) 
  
 ##### Go To [Generation 1](#Gen1)
 
