@@ -1357,7 +1357,7 @@ Krishna |
 
 ##### Go To [Generation 4](#Gen4)
 
-## [Dhanrajmal](#Dhanrajmal) -> [Rupchand](#Rupchand) -> [Vashu](#Vashu) -> [Priti](#Priti) -> <a name="Priti"></a> Priti
+## [Dhanrajmal](#Dhanrajmal) -> [Rupchand](#Rupchand) -> [Vashu](#Vashu) -> [Prakash](#PrakashV) -> <a name="Priti"></a> Priti
 
 Self |
 :--: |
