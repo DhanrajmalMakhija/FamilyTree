@@ -2,7 +2,7 @@
 
 ### Inspired by Smt. Santosh Nandlal Chawla
 
-### Maintained by Rajesh Gobindram Makhija
+### Maintained by Rajesh Makhija
 
 #### Text in blue are links to help navigate the family tree
 
