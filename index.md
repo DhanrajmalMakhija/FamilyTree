@@ -1417,7 +1417,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Aditya | Mitali
-![Aditya Img](images/Picture2.png) | ![? Img](images/Pictures1.png)
+![Aditya Img](images/Picture2.png) | ![? Img](images/Picture1.png)
 
 ##### Go To [Generation 4](#Gen4)
 
