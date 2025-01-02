@@ -967,7 +967,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Prakash | Rita
-![PrakashV Img](images/PrakashVMakhija.png) | ![? Img](images/RitaPMakhija.png)
+![PrakashV Img](images/PrakashVMakhija.png) | ![RitaP Img](images/RitaPMakhija.png)
 
 Daughters | Sons
 :-------: | :--:
@@ -1359,10 +1359,10 @@ Priti |
 
 ## [Dhanrajmal](#Dhanrajmal) -> [Rupchand](#Rupchand) -> [Vashu](#Vashu) -> [Prakash](#PrakashV) -> <a name="Krishna"></a> Krishna
 
-Self |
-:--: |
-Krishna | 
-![Krishna Img](images/KrishnaPMakhija.png) |
+Self | Spouse
+:--: | :----:
+Krishna | Mitali
+![Krishna Img](images/KrishnaPMakhija.png) | ![Mitali Img](images/Picture2.png)
 
 ##### Go To [Generation 4](#Gen4)
 
