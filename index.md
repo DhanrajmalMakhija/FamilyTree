@@ -1362,7 +1362,7 @@ Priti |
 Self | Spouse
 :--: | :----:
 Krishna | Mitali
-![Krishna Img](images/KrishnaPMakhija.png) | ![Mitali Img](images/Picture2.png)
+![Krishna Img](images/KrishnaPMakhija.png) | ![Mitali Img](images/Mitali.png)
 
 ##### Go To [Generation 4](#Gen4)
 
@@ -1417,7 +1417,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Aditya | Mitali
-![Aditya Img](images/Picture2.png) | ![? Img](images/Mitali.png)
+![Aditya Img](images/Picture2.png) | ![? Img](images/Pictures1.png)
 
 ##### Go To [Generation 4](#Gen4)
 
