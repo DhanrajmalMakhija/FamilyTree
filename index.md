@@ -328,7 +328,7 @@ Daughters | Sons
 Self | Spouse
 :--: | :----:
 Vashu | Shanti 
-![Vashu Img](images/Picture2.png) | ![ShantiV Img](images/Picture1.png)
+![Vashu Img](images/Vashu.png.png) | ![ShantiV Img](images/ShantiV.png.png)
 
 Daughters | Sons
 :-------: | :--:
